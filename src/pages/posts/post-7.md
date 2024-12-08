@@ -1,11 +1,14 @@
 ---
+layout: "../../layouts/MarkdownPostLayout.astro"
 title: "Zen and the Art of Happiness: Finding Joy in Every Moment"
 pubDate: 2024-01-20
 description: "Exploring Zen principles for cultivating lasting happiness"
-author: "Astro Learner"
+author: "Daffa Ravfriza"
+pageTitle: "Zen and the Art of Happiness"
+image:
+  url: "https://docs.astro.build/assets/peace.webp"
+  alt: "A serene zen garden representing inner peace."
 ---
-
-# Zen and the Art of Happiness: Finding Joy in Every Moment
 
 The Zen approach to happiness teaches us that true joy comes not from external circumstances, but from our inner state of being. Key principles include:
 

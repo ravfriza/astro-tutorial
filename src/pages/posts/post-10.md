@@ -1,11 +1,14 @@
 ---
+layout: "../../layouts/MarkdownPostLayout.astro"
 title: "The Untethered Soul: Journey Beyond Yourself"
 pubDate: 2024-01-23
 description: "Michael Singer's guide to inner freedom and consciousness"
-author: "Astro Learner"
+author: "Daffa Ravfriza"
+pageTitle: "The Untethered Soul"
+image:
+  url: "https://docs.astro.build/assets/soul.webp"
+  alt: "A symbolic representation of the untethered soul."
 ---
-
-# The Untethered Soul: Journey Beyond Yourself
 
 Michael Singer's profound work guides us to explore consciousness and find inner freedom. Key teachings include:
 

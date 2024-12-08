@@ -1,11 +1,14 @@
 ---
+layout: "../../layouts/MarkdownPostLayout.astro"
 title: "The Wisdom of Marcus Aurelius: Key Lessons from Meditations"
 pubDate: 2024-01-15
 description: "Exploring the timeless wisdom of Stoicism through Marcus Aurelius' Meditations"
-author: "Astro Learner"
+author: "Daffa Ravfriza"
+image:
+  url: "https://docs.astro.build/assets/rose.webp"
+  alt: "The Astro logo on a dark background with a pink glow."
+pageTitle: "The Wisdom of Marcus Aurelius"
 ---
-
-# The Wisdom of Marcus Aurelius: Key Lessons from Meditations
 
 Marcus Aurelius, the philosopher king of Rome, left us with invaluable wisdom in his personal diary, now known as "Meditations." Here are some key principles of Stoicism from his writings:
 

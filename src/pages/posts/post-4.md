@@ -1,11 +1,14 @@
 ---
+layout: "../../layouts/MarkdownPostLayout.astro"
 title: "The Power of Now: Living in the Present Moment"
 pubDate: 2024-01-17
 description: "Understanding the core teachings of Eckhart Tolle's spiritual guide"
-author: "Astro Learner"
+author: "Daffa Ravfriza"
+pageTitle: "The Power of Now"
+image:
+  url: "https://docs.astro.build/assets/rays.webp"
+  alt: "Rays of light representing present moment awareness."
 ---
-
-# The Power of Now: Living in the Present Moment
 
 Eckhart Tolle's masterpiece teaches us that true happiness and enlightenment can only be found in the present moment. Key teachings include:
 

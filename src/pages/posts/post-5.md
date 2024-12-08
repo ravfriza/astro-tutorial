@@ -1,11 +1,14 @@
 ---
+layout: "../../layouts/MarkdownPostLayout.astro"
 title: "The Alchemist: Following Your Personal Legend"
 pubDate: 2024-01-18
 description: "Exploring the spiritual journey and wisdom in Paulo Coelho's The Alchemist"
-author: "Astro Learner"
+author: "Daffa Ravfriza"
+pageTitle: "The Alchemist"
+image:
+  url: "https://docs.astro.build/assets/moon.webp"
+  alt: "A desert scene under a starry night sky."
 ---
-
-# The Alchemist: Following Your Personal Legend
 
 Paulo Coelho's beloved tale teaches us about the importance of following our dreams and listening to our hearts. Key lessons from the book include:
 

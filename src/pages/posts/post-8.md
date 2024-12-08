@@ -1,11 +1,14 @@
 ---
+layout: "../../layouts/MarkdownPostLayout.astro"
 title: "The Four Agreements: A Path to Personal Freedom"
 pubDate: 2024-01-21
 description: "Understanding Don Miguel Ruiz's four principles for transformation"
-author: "Astro Learner"
+author: "Daffa Ravfriza"
+pageTitle: "The Four Agreements"
+image:
+  url: "https://docs.astro.build/assets/steps.webp"
+  alt: "Four stepping stones representing the four agreements."
 ---
-
-# The Four Agreements: A Path to Personal Freedom
 
 Don Miguel Ruiz presents four powerful agreements that can transform our lives when practiced consistently:
 

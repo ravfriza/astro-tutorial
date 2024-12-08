@@ -1,11 +1,14 @@
 ---
+layout: "../../layouts/MarkdownPostLayout.astro"
 title: "Sapiens: A Brief History of Humankind - Key Insights"
 pubDate: 2024-01-16
 description: "Exploring the revolutionary ideas from Yuval Noah Harari's Sapiens"
-author: "Astro Learner"
+author: "Daffa Ravfriza"
+pageTitle: "Sapiens: Key Insights"
+image:
+  url: "https://docs.astro.build/assets/human.webp"
+  alt: "A representation of human evolution and progress."
 ---
-
-# Sapiens: A Brief History of Humankind - Key Insights
 
 Yuval Noah Harari's "Sapiens" presents a fascinating journey through human history, revealing how Homo sapiens came to dominate the Earth. Here are the key revolutions that shaped our species:
 

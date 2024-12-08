@@ -1,11 +1,14 @@
 ---
+layout: "../../layouts/MarkdownPostLayout.astro"
 title: "Man's Search for Meaning: Finding Purpose in Suffering"
 pubDate: 2024-01-19
 description: "Viktor Frankl's profound insights on finding meaning in life's darkest moments"
-author: "Astro Learner"
+author: "Daffa Ravfriza"
+pageTitle: "Man's Search for Meaning"
+image:
+  url: "https://docs.astro.build/assets/light.webp"
+  alt: "A light in the darkness symbolizing hope and meaning."
 ---
-
-# Man's Search for Meaning: Finding Purpose in Suffering
 
 Viktor Frankl's powerful memoir and psychological theory emerged from his experiences in Nazi concentration camps. His key insights include:
 

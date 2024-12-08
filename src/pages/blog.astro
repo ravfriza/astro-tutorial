@@ -1,68 +1,53 @@
 ---
+import BaseLayout from "../layouts/BaseLayout.astro";
+
 const pageTitle = "Blog";
 ---
 
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <meta name="viewport" content="width=device-width" />
-    <meta name="generator" content={Astro.generator} />
-    <title>Astro</title>
-  </head>
-  <body>
-    <a href="/">Home</a>
-    <a href="/about/">About</a>
-    <a href="/blog/">Blog</a>
-    <h1>My Astro Learning Blog</h1>
-    <p>This is where I will post about my journey learning Astro.</p>
-    <ul>
-      <li><a href="/posts/post-1/">Post 1</a></li>
-      <li>
-        <a href="/posts/post-2/"
-          >The Wisdom of Marcus Aurelius: Key Lessons from Meditations</a
-        >
-      </li>
-      <li>
-        <a href="/posts/post-3/"
-          >Sapiens: A Brief History of Humankind - Key Insights</a
-        >
-      </li>
-      <li>
-        <a href="/posts/post-4/"
-          >The Power of Now: Living in the Present Moment</a
-        >
-      </li>
-      <li>
-        <a href="/posts/post-5/"
-          >The Alchemist: Following Your Personal Legend</a
-        >
-      </li>
-      <li>
-        <a href="/posts/post-6/"
-          >Man's Search for Meaning: Finding Purpose in Suffering</a
-        >
-      </li>
-      <li>
-        <a href="/posts/post-7/"
-          >Zen and the Art of Happiness: Finding Joy in Every Moment</a
-        >
-      </li>
-      <li>
-        <a href="/posts/post-8/"
-          >The Four Agreements: A Path to Personal Freedom</a
-        >
-      </li>
-      <li>
-        <a href="/posts/post-9/"
-          >Mindfulness in Plain English: A Practical Guide to Meditation</a
-        >
-      </li>
-      <li>
-        <a href="/posts/post-10/"
-          >The Untethered Soul: Journey Beyond Yourself</a
-        >
-      </li>
-    </ul>
-  </body>
-</html>
+<BaseLayout pageTitle={pageTitle}>
+  <h1>My Astro Learning Blog</h1>
+  <p>This is where I will post about my journey learning Astro.</p>
+  <ul>
+    <li><a href="/posts/post-1/">Post 1</a></li>
+    <li>
+      <a href="/posts/post-2/"
+        >The Wisdom of Marcus Aurelius: Key Lessons from Meditations</a
+      >
+    </li>
+    <li>
+      <a href="/posts/post-3/"
+        >Sapiens: A Brief History of Humankind - Key Insights</a
+      >
+    </li>
+    <li>
+      <a href="/posts/post-4/">The Power of Now: Living in the Present Moment</a
+      >
+    </li>
+    <li>
+      <a href="/posts/post-5/">The Alchemist: Following Your Personal Legend</a>
+    </li>
+    <li>
+      <a href="/posts/post-6/"
+        >Man's Search for Meaning: Finding Purpose in Suffering</a
+      >
+    </li>
+    <li>
+      <a href="/posts/post-7/"
+        >Zen and the Art of Happiness: Finding Joy in Every Moment</a
+      >
+    </li>
+    <li>
+      <a href="/posts/post-8/"
+        >The Four Agreements: A Path to Personal Freedom</a
+      >
+    </li>
+    <li>
+      <a href="/posts/post-9/"
+        >Mindfulness in Plain English: A Practical Guide to Meditation</a
+      >
+    </li>
+    <li>
+      <a href="/posts/post-10/">The Untethered Soul: Journey Beyond Yourself</a>
+    </li>
+  </ul>
+</BaseLayout>
