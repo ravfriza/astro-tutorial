@@ -7,7 +7,6 @@ author: "Daffa Ravfriza"
 image:
   url: "https://docs.astro.build/assets/rose.webp"
   alt: "The Astro logo on a dark background with a pink glow."
-pageTitle: "The Wisdom of Marcus Aurelius"
 ---
 
 Marcus Aurelius, the philosopher king of Rome, left us with invaluable wisdom in his personal diary, now known as "Meditations." Here are some key principles of Stoicism from his writings:
