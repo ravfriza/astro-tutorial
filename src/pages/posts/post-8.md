@@ -8,6 +8,7 @@ pageTitle: "The Four Agreements"
 image:
   url: "https://docs.astro.build/assets/steps.webp"
   alt: "Four stepping stones representing the four agreements."
+tags: ["wisdom", "personal-growth", "spirituality", "toltec", "self-help"]
 ---
 
 Don Miguel Ruiz presents four powerful agreements that can transform our lives when practiced consistently:

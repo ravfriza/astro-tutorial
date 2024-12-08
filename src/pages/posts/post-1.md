@@ -7,7 +7,7 @@ author: "Daffa Ravfriza"
 image:
   url: "https://docs.astro.build/assets/rose.webp"
   alt: "The Astro logo on a dark background with a pink glow."
-tags: ["astro", "blog", "post"]
+tags: ["astro", "blogging"]
 ---
 
 ## What I've accomplished

@@ -8,6 +8,8 @@ pageTitle: "The Untethered Soul"
 image:
   url: "https://docs.astro.build/assets/soul.webp"
   alt: "A symbolic representation of the untethered soul."
+tags:
+  ["spirituality", "consciousness", "self-help", "meditation", "inner-peace"]
 ---
 
 Michael Singer's profound work guides us to explore consciousness and find inner freedom. Key teachings include:

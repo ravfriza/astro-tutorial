@@ -8,6 +8,8 @@ pageTitle: "The Power of Now"
 image:
   url: "https://docs.astro.build/assets/rays.webp"
   alt: "Rays of light representing present moment awareness."
+tags:
+  ["spirituality", "mindfulness", "self-help", "meditation", "consciousness"]
 ---
 
 Eckhart Tolle's masterpiece teaches us that true happiness and enlightenment can only be found in the present moment. Key teachings include:

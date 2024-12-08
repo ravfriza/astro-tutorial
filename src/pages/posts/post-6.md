@@ -8,6 +8,7 @@ pageTitle: "Man's Search for Meaning"
 image:
   url: "https://docs.astro.build/assets/light.webp"
   alt: "A light in the darkness symbolizing hope and meaning."
+tags: ["psychology", "philosophy", "meaning", "resilience", "personal-growth"]
 ---
 
 Viktor Frankl's powerful memoir and psychological theory emerged from his experiences in Nazi concentration camps. His key insights include:

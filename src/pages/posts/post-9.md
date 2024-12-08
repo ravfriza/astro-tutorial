@@ -8,6 +8,7 @@ pageTitle: "Mindfulness in Plain English"
 image:
   url: "https://docs.astro.build/assets/meditation.webp"
   alt: "A peaceful meditation scene with lotus flower."
+tags: ["meditation", "mindfulness", "buddhism", "self-help", "spirituality"]
 ---
 
 This practical guide to mindfulness meditation offers clear instructions for developing a meditation practice:

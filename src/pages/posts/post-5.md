@@ -8,6 +8,7 @@ pageTitle: "The Alchemist"
 image:
   url: "https://docs.astro.build/assets/moon.webp"
   alt: "A desert scene under a starry night sky."
+tags: ["spirituality", "fiction", "personal-growth", "wisdom", "destiny"]
 ---
 
 Paulo Coelho's beloved tale teaches us about the importance of following our dreams and listening to our hearts. Key lessons from the book include:

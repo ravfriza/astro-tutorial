@@ -8,6 +8,7 @@ pageTitle: "Sapiens: Key Insights"
 image:
   url: "https://docs.astro.build/assets/human.webp"
   alt: "A representation of human evolution and progress."
+tags: ["history", "anthropology", "evolution", "philosophy", "society"]
 ---
 
 Yuval Noah Harari's "Sapiens" presents a fascinating journey through human history, revealing how Homo sapiens came to dominate the Earth. Here are the key revolutions that shaped our species:

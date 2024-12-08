@@ -8,6 +8,7 @@ pageTitle: "Zen and the Art of Happiness"
 image:
   url: "https://docs.astro.build/assets/peace.webp"
   alt: "A serene zen garden representing inner peace."
+tags: ["zen", "buddhism", "happiness", "mindfulness", "spirituality"]
 ---
 
 The Zen approach to happiness teaches us that true joy comes not from external circumstances, but from our inner state of being. Key principles include:
